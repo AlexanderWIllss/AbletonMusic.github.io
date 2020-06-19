@@ -9,3 +9,4 @@
 * Access to an internet connection for authorizing Live (for downloading additional content and updating Live, a fast internet connection is recommended)
 * Approximately 3 GB disk space on the system drive for the basic installation (8 GB free disk space recommended)
 * Up to 76 GB disk space for additionally available sound content
+![alt text](https://ableton-production.imgix.net/link/photo-live.jpg?auto=format&fit=crop&fm=jpg&ixjsv=1.1.3&w=797)
