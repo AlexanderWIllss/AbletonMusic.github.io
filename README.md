@@ -14,3 +14,8 @@
 
 # Link is a technology that keeps devices in time over a local network, so you can forget the hassle of setting up and focus on playing music. Link is now part of Live, and also comes as a built-in feature of other software and hardware for music making.
 
+# A Live 10 installer
+### What comes with the download version?
+* A Live 10 installer to download from Your Account
+* A PDF manual included with your installer
+* Sounds and Packs can be downloaded directly from the Packs section in the Live 10 browser by clicking the download icon, then clicking Install. They can also be downloaded from the web in the Your Packs section after login.
