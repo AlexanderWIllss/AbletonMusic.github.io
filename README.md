@@ -11,3 +11,6 @@
 * Up to 76 GB disk space for additionally available sound content
 
 ![alt text](https://ableton-production.imgix.net/link/photo-live.jpg?auto=format&fit=crop&fm=jpg&ixjsv=1.1.3&w=797)
+
+# Link is a technology that keeps devices in time over a local network, so you can forget the hassle of setting up and focus on playing music. Link is now part of Live, and also comes as a built-in feature of other software and hardware for music making.
+
