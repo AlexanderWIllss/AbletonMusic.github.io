@@ -3,3 +3,9 @@
 # Closed version for promoters.
 ### System Requirements
 * 64-32bit Intel® Core™ or AMD multi-core processor (Intel® Core™ processor or faster recommended)
+* 4 GB RAM (8 GB or more recommended)
+* 1366x768 display resolution
+* ASIO compatible audio hardware for Link support (also recommended for optimal audio performance)
+* Access to an internet connection for authorizing Live (for downloading additional content and updating Live, a fast internet connection is recommended)
+* Approximately 3 GB disk space on the system drive for the basic installation (8 GB free disk space recommended)
+* Up to 76 GB disk space for additionally available sound content
